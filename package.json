@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "funkin-online-server",
+  "name": "PEXO-BETA-ONLINE-SERVER",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
@@ -24,9 +24,9 @@
   "author": "Snirozu",
   "license": "Apache-2.0-NON-AI",
   "bugs": {
-    "url": "https://github.com/Snirozu/Funkin-Online-Server/issues"
+    "url": "https://github.com/Ethantobot11/Funkin-Online-Server/issues"
   },
-  "homepage": "https://github.com/Snirozu/Funkin-Online-Server#readme",
+  "homepage": "https://github.com/Ethantobot11/Funkin-Online-Server#readme",
   "devDependencies": {
     "@eslint/js": "^9.37.0",
     "@types/cookie-parser": "^1.4.7",
@@ -55,7 +55,7 @@
     "@prisma/client": "^5.15.0",
     "@types/nodemailer": "^6.4.15",
     "axios": "^1.13.5",
-    "body-parser": "github:Snirozu/body-parser",
+    "body-parser": "github:Ethantobot11/body-parser",
     "canvas": "^3.2.0",
     "chart.js": "^4.4.3",
     "colyseus": "^0.17.8",
